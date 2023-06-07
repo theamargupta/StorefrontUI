@@ -16,15 +16,15 @@ export default function HeroSection() {
         </a>
         <div className="flex justify-end"></div>
       </div>
-      <div class="flex flex-1 justify-center items-center relative">
-        <div class="z-10">
+      <div className="flex flex-1 justify-center items-center relative">
+        <div className="z-10">
           <img
             src="https://i.ibb.co/JBT5QRW/couch6.png"
             className="w-[30rem]"
             alt=""
           />
         </div>
-        <div class="absolute w-48 h-48 sm:w-72 sm:h-72 xl:w-88 xl:h-88 bg-white z-0 rounded-full"></div>
+        <div className="absolute w-48 h-48 sm:w-72 sm:h-72 xl:w-88 xl:h-88 bg-white z-0 rounded-full"></div>
       </div>
     </div>
   );
