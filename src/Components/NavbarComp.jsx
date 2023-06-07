@@ -13,7 +13,8 @@ export default function Navbar() {
     <nav className="bg-white shadow-lg">
       <div className="max-w-7xl py-6 flex items-center justify-between mx-10">
         <div>
-          <h1 className="text-2xl font-bold text-gray-800">My Store</h1>
+        <Link href="/">
+          <h1 className="text-2xl font-bold text-gray-800">My Store</h1></Link>
         </div>
         <div className="hidden md:block">
           <ul className="flex space-x-4">

@@ -9,7 +9,7 @@ export default function HeroSection() {
           FROM $800 <br /> Shop Now Design by Jason Bourne
         </p>
         <a
-          href="#products"
+          href="/product/cks2ynevsnyby0b91xqveba3v"
           className="text-black-500 font-medium px-6 py-3 rounded uppercase tracking-wide hover:bg-black-500 hover:text-white transition duration-300 ease-in-out border-black-900"
         >
           Shop Now
@@ -18,6 +18,7 @@ export default function HeroSection() {
       </div>
       <div className="flex flex-1 justify-center items-center relative">
         <div className="z-10">
+          {/*  eslint-disable-next-line @next/next/no-img-element */}
           <img
             src="https://i.ibb.co/JBT5QRW/couch6.png"
             className="w-[30rem]"
