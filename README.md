@@ -58,6 +58,14 @@ This is an ecommerce application built using Next.js, React, Tailwind CSS, and t
 
 The ecommerce application provides users with a seamless shopping experience, allowing them to browse, search, and purchase products. The use of Next.js ensures fast and efficient page rendering, while React and Tailwind CSS provide a modern and flexible UI. The `@storefront-ui/react` library enhances the application with pre-built ecommerce components that are easy to use and customizable.
 
+# Home
+
 ![home](home.png)
+
+# Search
+
 ![search](searchapp.png)
+
+# Product Page
+
 ![desc](productdesc.png)
