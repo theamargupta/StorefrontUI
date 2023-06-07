@@ -1,12 +1,10 @@
 "use client";
-import { useState, useRef } from "react";
+import { useState } from "react";
 import {
   SfInput,
   SfIconSearch,
   SfIconCancel,
   useDisclosure,
-  SfListItem,
-  SfLoaderCircular,
 } from "@storefront-ui/react";
 import { ProductCardHorizontal, products } from "./ProductSection";
 

@@ -1,6 +1,7 @@
 import Footer from "@/Components/Footer";
 import Navbar from "@/Components/NavbarComp";
-import SearchBasic from "@/Components/Search";
+import SearchBasic from "@/Components/search";
+
 
 
 
